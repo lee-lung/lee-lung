@@ -1,5 +1,6 @@
 # Daniel Lee
-**ECE @ University of Toronto** · Electrical and Computer Engineering · Computer hardware & architecutre
+**ECE @ University of Toronto** · Computer Hardware & Architecture
+
 I build things at the intersection of hardware and software — from FPGA-based navigation systems to battery management research. Currently a 2nd year ECE student at UofT with hands-on experience in RTL design, embedded firmware, and hardware bring-up.
 
 ---
@@ -18,10 +19,10 @@ I build things at the intersection of hardware and software — from FPGA-based 
 
 ## Featured Projects
 
-### 🔧 [ObstacleOdyssey ](https://github.com/lee-lung/obstacleOdyssey)
-> FPGA-based autonomous navigation on a 32×24 VGA grid · DE1-SoC · Verilog
+### 🔧 [ObstacleOdyssey](https://github.com/lee-lung/obstacle-odyssey)
+> Interactive self-driving car simulation · Bug 2 pathfinding · 320×240 VGA · DE1-SoC · Verilog &nbsp;·&nbsp; [▶ Demo](https://www.youtube.com/watch?v=9vhl6w_qnwg)
 
-Implemented a simplified Bug 2 pathfinding algorithm with wall-following navigation. Designed the full navigation FSM and algorithm logic; integrated with VGA rendering pipeline for real-time visualization.
+Hardware implementation of an autonomous vehicle simulation on FPGA. Users place obstacles interactively via switches and keys; the car navigates from start to goal in real time using a Bug 2-style pathfinding algorithm rendered as a live bird's-eye VGA display.
 
 `Verilog` `DE1-SoC` `FSM` `VGA` `Quartus Prime`
 
@@ -36,7 +37,7 @@ Designed and validated a Tayloe quadrature mixer subsystem for an HF software-de
 
 ---
 
-### 🔋 Adaptive Kalman Filter BMS — Smart Power Integration and Semiconductor Devices Research Group, University of Toronto
+### 🔋 Adaptive Kalman Filter BMS — DSEL Research Group
 > State-of-Charge Estimation · Li-ion Battery Systems · MATLAB
 
 Undergraduate research on adaptive Kalman filter algorithms for real-time SoC estimation in lithium-ion battery packs. Work conducted at UofT's Smart Power Integration & Semiconductor Devices Research Group.
@@ -53,6 +54,16 @@ EDA          Quartus Prime  |  ModelSim  |  Altium Designer  |  LTSpice
 Hardware     DE1-SoC (Cyclone V FPGA)  |  STM32  |  Oscilloscope  |  Logic Analyzer
 ```
 
+---
+
+## Currently
+
+- 🎓 2nd Year ECE @ University of Toronto (cGPA focused on Areas 3 & 5)
+- 🔬 Undergraduate Researcher @ DSEL — BMS & SoC estimation
+- 🏎️ Hardware/Firmware — Blue Sky Solar Racing & UofT Supermileage
+- 🔍 Seeking Summer 2026 internships in **cleantech · EV · semiconductors · embedded systems**
+
+---
 
 ## Contact
 
