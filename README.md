@@ -18,7 +18,7 @@ I build things at the intersection of hardware and software — from FPGA-based 
 
 ## Featured Projects
 
-### 🔧 [BugBot Navigator](https://github.com/lee-lung/bugbot-navigator)
+### 🔧 [ObstacleOdyssey ](https://github.com/lee-lung/obstacle-odyssey)
 > FPGA-based autonomous navigation on a 32×24 VGA grid · DE1-SoC · Verilog
 
 Implemented a simplified Bug 2 pathfinding algorithm with wall-following navigation. Designed the full navigation FSM and algorithm logic; integrated with VGA rendering pipeline for real-time visualization.
