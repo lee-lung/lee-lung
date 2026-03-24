@@ -37,7 +37,7 @@ Designed and validated a Tayloe quadrature mixer subsystem for an HF software-de
 
 ---
 
-### 🔋 Adaptive Kalman Filter BMS — DSEL Research Group
+### 🔋 Adaptive Kalman Filter BMS — Smart Power Integration and Semiconductor Devices Research Group
 > State-of-Charge Estimation · Li-ion Battery Systems · MATLAB
 
 Undergraduate research on adaptive Kalman filter algorithms for real-time SoC estimation in lithium-ion battery packs. Work conducted at UofT's Smart Power Integration & Semiconductor Devices Research Group.
