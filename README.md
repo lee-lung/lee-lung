@@ -39,4 +39,11 @@ Languages    Verilog  |  C/C++  |  Python  |  MATLAB  |  RISC-V Assembly
 EDA          Quartus Prime  |  ModelSim  |  Altium Designer  |  LTSpice
 Hardware     DE1-SoC (Cyclone V FPGA)  |  STM32  |  Oscilloscope  |  Logic Analyzer
 
+Currently
+
+🎓 2nd Year ECE @ University of Toronto (cGPA focused on Areas 3 & 5)
+🔬 Undergraduate Researcher @ DSEL — BMS & SoC estimation
+🏎️ Hardware/Firmware — Blue Sky Solar Racing & UofT Supermileage
+🔍 Seeking Summer 2026 internships in cleantech · EV · semiconductors · embedded systems
+
 
