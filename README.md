@@ -1,4 +1,5 @@
 Daniel Lee
+
 ECE @ University of Toronto · Computer Hardware & Architecture
 I build things at the intersection of hardware and software — from FPGA-based navigation systems to battery management research. Currently a 2nd year ECE student at UofT with hands-on experience in RTL design, embedded firmware, and hardware bring-up.
 
@@ -6,6 +7,7 @@ What I Work On
 AreaDetailsDigital Design / HDLVerilog, SystemVerilog — FSMs, pipelines, VGA controllers on DE1-SoCEmbedded SystemsC/C++, memory-mapped I/O, interrupt-driven design, RISC-V assemblyAnalog ElectronicsBJT/MOSFET amplifier design, small-signal modeling, LTSpice simulationPCB & SchematicAltium Designer — currently designing an HF radio receiver front-endResearchAdaptive Kalman filter-based state-of-charge estimation for Li-ion BMS
 
 Featured Projects
+
 🔧 ObstacleOdyssey
 
 Interactive self-driving car simulation · Bug 2 pathfinding · 320×240 VGA · DE1-SoC · Verilog  ·  ▶ Demo
@@ -39,11 +41,7 @@ Languages    Verilog  |  C/C++  |  Python  |  MATLAB  |  RISC-V Assembly
 EDA          Quartus Prime  |  ModelSim  |  Altium Designer  |  LTSpice
 Hardware     DE1-SoC (Cyclone V FPGA)  |  STM32  |  Oscilloscope  |  Logic Analyzer
 
-Currently
 
-🎓 2nd Year ECE @ University of Toronto (cGPA focused on Areas 3 & 5)
-🔬 Undergraduate Researcher @ DSEL — BMS & SoC estimation
-🏎️ Hardware/Firmware — Blue Sky Solar Racing & UofT Supermileage
-🔍 Seeking Summer 2026 internships in cleantech · EV · semiconductors · embedded systems
+
 
 
