@@ -13,7 +13,7 @@ I build things at the intersection of hardware and software — from FPGA-based 
 | **Digital Design / HDL** | Verilog, SystemVerilog — FSMs, pipelines, VGA controllers on DE1-SoC |
 | **Embedded Systems** | C/C++, memory-mapped I/O, interrupt-driven design, RISC-V assembly |
 | **Analog Electronics** | BJT/MOSFET amplifier design, small-signal modeling, LTSpice simulation |
-| **PCB & Schematic** | Altium Designer — currently designing an HF radio receiver front-end |
+| **PCB & Schematic** | Altium Designer — Designed an HF radio receiver front-end |
 | **Research** | Adaptive Kalman filter-based state-of-charge estimation for Li-ion BMS |
 
 ---
