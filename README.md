@@ -1,4 +1,4 @@
-# Daniel Lee
+# Daniel (Lung Shing) Lee
 
 **ECE @ University of Toronto** · Computer Hardware & Architecture
 
