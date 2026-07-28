@@ -20,6 +20,16 @@ I build things at the intersection of hardware and software — from FPGA-based 
 
 ## Featured Projects
 
+### 🧠 [conv-engine](https://github.com/lee-lung/conv-engine)
+
+> Parameterized 2D convolution MAC core · CNN accelerator datapath · Verilog RTL + SystemVerilog verification
+
+A hardware convolution engine implementing the multiply-accumulate core of a CNN layer — the exact datapath structure that GPU, TPU, and NPU accelerators are built around. Pixels stream in one per clock through a shift-register window and line buffers while a stationary MAC array computes one output per valid window position; image and kernel dimensions are elaboration-time parameters, so the same RTL retargets to different sizes without edits. Verified against a C++ golden model with SystemVerilog assertions and functional coverage.
+
+`Verilog` `SystemVerilog` `MAC` `CNN Accelerator` `Functional Coverage` `ModelSim`
+
+---
+
 ### 🔧 [ObstacleOdyssey](https://github.com/lee-lung/obstacle-odyssey)
 
 > Interactive self-driving car simulation · Bug 2 pathfinding · 320×240 VGA · DE1-SoC · Verilog · [▶ Demo](https://www.youtube.com/watch?v=9vhl6w_qnwg)
