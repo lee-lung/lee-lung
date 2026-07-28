@@ -70,13 +70,6 @@ Hardware     DE1-SoC (Cyclone V FPGA)  |  STM32  |  Oscilloscope  |  Logic Analy
 
 ---
 
-## Currently
-
-- 🎓 2nd Year ECE @ University of Toronto (cGPA focused on Areas 3 & 5)
-- 🔬 Undergraduate Researcher @ DSEL — BMS & SoC estimation
-- 🏎️ Hardware/Firmware — Blue Sky Solar Racing & UofT Supermileage
-- 🔍 Seeking Summer 2026 internships in **cleantech · EV · semiconductors · embedded systems**
-
 ---
 
 ## Contact
