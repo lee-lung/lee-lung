@@ -29,6 +29,13 @@ A hardware convolution engine implementing the multiply-accumulate core of a CNN
 `Verilog` `SystemVerilog` `MAC` `CNN Accelerator` `Functional Coverage` `ModelSim`
 
 ---
+### 🔋 [Adaptive Kalman Filter BMS](https://github.com/lee-lung/Battery-Management-System-for-EV-Li-ion-Batteries) — Smart Power Integration and Semiconductor Devices Research Group
+
+> State-of-Charge Estimation · Li-ion Battery Systems · MATLAB
+
+Undergraduate research on adaptive Kalman filter algorithms for real-time SoC estimation in lithium-ion battery packs. Work conducted at UofT's Smart Power Integration & Semiconductor Devices Research Group.
+
+`MATLAB` `Kalman Filter` `Battery Systems` `Research`
 
 ### 🔧 [ObstacleOdyssey](https://github.com/lee-lung/obstacle-odyssey)
 
@@ -57,16 +64,6 @@ Embedded sonar system on the DE1-SoC featuring an HC-SR04 ultrasonic sensor moun
 Designed and validated a Tayloe quadrature mixer subsystem for an HF hybrid software-defined radio receiver. Verified in LTSpice simulation; transitioned to Altium for PCB schematic capture.
 
 `Altium Designer` `LTSpice` `Analog RF` `SDR`
-
----
-
-### 🔋 [Adaptive Kalman Filter BMS](https://github.com/lee-lung/Battery-Management-System-for-EV-Li-ion-Batteries) — Smart Power Integration and Semiconductor Devices Research Group
-
-> State-of-Charge Estimation · Li-ion Battery Systems · MATLAB
-
-Undergraduate research on adaptive Kalman filter algorithms for real-time SoC estimation in lithium-ion battery packs. Work conducted at UofT's Smart Power Integration & Semiconductor Devices Research Group.
-
-`MATLAB` `Kalman Filter` `Battery Systems` `Research`
 
 ---
 
