@@ -20,7 +20,7 @@ I build things at the intersection of hardware and software — from FPGA-based 
 
 ## Featured Projects
 
-### 🧠 [Convolution-Engine](https://github.com/lee-lung/conv-engine)
+### 🧠 [Convolution Engine](https://github.com/lee-lung/conv-engine)
 
 > Parameterized 2D convolution MAC core · CNN accelerator datapath · Verilog RTL + SystemVerilog verification
 
