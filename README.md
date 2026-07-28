@@ -2,7 +2,7 @@
 
 **ECE @ University of Toronto** · Computer Hardware & Architecture
 
-I build things at the intersection of hardware and software — from FPGA-based navigation systems to battery management research. Currently a 2nd year ECE student at UofT with hands-on experience in RTL design, embedded firmware, and hardware bring-up.
+I build things at the intersection of hardware and software — from FPGA-based navigation systems to battery management research. Currently a 3rd year ECE student at UofT with hands-on experience in RTL design, embedded firmware, and hardware bring-up.
 
 ---
 
